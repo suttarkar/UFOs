@@ -7,13 +7,13 @@ We were asked to make a webpage to display information on UFO sightings. We used
 We were able to make a webpage that displayed the UFO sighting data while allowing the user to filter based on date, city, state, country, and shape. Before the user uses any filter, the page displays all sightings in the dataset.
 
 ### No filter
-
+![](resources/nofilter.png)
 
 ### One filter
-
+![](resources/onefilter.png)
 
 ### Multiple filters
-
+![](resources/multiplefilters.png)
 
 ## Summary
 One of the main drawbacks of this page is that when the user puts in a filter, if anything is misspelt no results show.
