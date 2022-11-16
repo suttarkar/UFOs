@@ -17,4 +17,4 @@ We were able to make a webpage that displayed the UFO sighting data while allowi
 
 ## Summary
 One of the main drawbacks of this page is that when the user puts in a filter, if anything is misspelt no results show.
-One of the ways to improve this webpage would be by allowing the user to also select multiple dates or a range of dates. Another way would be to 
+One of the ways to improve this webpage would be by allowing the user to select multiple dates or a range of dates, as well as multiple different cities, states, etc. Another way would be to make the filters that take text accept results without being case sensitive.
